@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanaakazii
 - 👀 I’m interested in UI/UX , web dev, mobile application dev
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning web and application dev
 - 😄 Pronouns: cat
 - ⚡ Fun fact: trust me even im not perfect in what i am doing, it's fine!
 
